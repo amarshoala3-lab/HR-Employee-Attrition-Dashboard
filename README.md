@@ -10,7 +10,7 @@ An end-to-end HR Analytics solution designed to investigate employee turnover pa
 
  Executive Dashboard Overview
 
-![HR Attrition Dashboard](Screenshot%202026-08-01%20053818.png)
+![HR Attrition Dashboard](Screenshot%202026-08-01%20062001.png)
 
 ---
 
